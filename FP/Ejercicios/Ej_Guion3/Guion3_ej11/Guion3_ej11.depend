@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757692239 source:c:\users\josea\onedrive\documentos\universidad\fp\ej_guion3\guion3_ej11\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

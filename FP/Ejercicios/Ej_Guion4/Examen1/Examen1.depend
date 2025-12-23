@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762964295 source:c:\users\josea\onedrive\documentos\universidad\fp\ej_guion4\examen1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

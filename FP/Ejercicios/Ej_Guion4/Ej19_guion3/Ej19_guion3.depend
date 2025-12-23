@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1762889378 source:c:\users\josea\onedrive\documentos\universidad\fp\ej_guion4\ej19_guion3\main.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<cctype>
+
