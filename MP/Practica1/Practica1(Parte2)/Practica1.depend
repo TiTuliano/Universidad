@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1760950778 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1\src\fecha.cpp
+	"Fecha.h"
+
+1759760768 c:\users\josea\onedrive\documentos\universidad\mp\practica1\include\fecha.h
+	<iostream>
+
+1760087350 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1\src\cliente.cpp
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	"Cliente.h"
+	<iostream>
+
+1760086759 c:\users\josea\onedrive\documentos\universidad\mp\practica1\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1760951667 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1760781201 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1\src\contrato.cpp
+	"Contrato.h"
+
+1760780867 c:\users\josea\onedrive\documentos\universidad\mp\practica1\include\contrato.h
+	<iostream>
+	"Fecha.h"
+
+1760969537 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1\src\contratotp.cpp
+	"ContratoTP.h"
+
+1760952078 c:\users\josea\onedrive\documentos\universidad\mp\practica1\include\contratotp.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1760948948 c:\users\josea\onedrive\documentos\universidad\mp\practica1\include\contratomovil.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1760951709 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1\src\contratomovil.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Contrato.h"
+	"ContratoMovil.h"
+
+1760951667 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\main.cpp
+	<iostream>
+	"Fecha.h"
+	"Cliente.h"
+	<cstdlib>
+	<iostream>
+	<iomanip>
+	"Fecha.h"
+	"Contrato.h"
+	"ContratoTP.h"
+	"ContratoMovil.h"
+
+1759760768 c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\include\fecha.h
+	<iostream>
+
+1760086759 c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\include\cliente.h
+	<iostream>
+	"Fecha.h"
+
+1760780867 c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\include\contrato.h
+	<iostream>
+	"Fecha.h"
+
+1760952078 c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\include\contratotp.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1760948948 c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\include\contratomovil.h
+	<iostream>
+	"Fecha.h"
+	"Contrato.h"
+
+1760087350 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\src\cliente.cpp
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	<sstream>
+	"Cliente.h"
+	<iostream>
+
+1760781201 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\src\contrato.cpp
+	"Contrato.h"
+
+1760951709 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\src\contratomovil.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<iomanip>
+	"Contrato.h"
+	"ContratoMovil.h"
+
+1760969537 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\src\contratotp.cpp
+	"ContratoTP.h"
+
+1760950778 source:c:\users\josea\onedrive\documentos\universidad\mp\practica1(parte2)\src\fecha.cpp
+	"Fecha.h"
+

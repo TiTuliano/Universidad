@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1758528493 source:c:\users\josea\onedrive\escritorio\practica0_uso_libreria\main.cpp
+	<iostream>
+	"complejo.h"
+
+1758528493 c:\users\josea\onedrive\escritorio\practica0_uso_libreria\complejo.h
+
+1758528493 source:c:\users\josea\onedrive\documentos\universidad\mp\practica0_uso_libreria\main.cpp
+	<iostream>
+	"complejo.h"
+
+1758528493 c:\users\josea\onedrive\documentos\universidad\mp\practica0_uso_libreria\complejo.h
+

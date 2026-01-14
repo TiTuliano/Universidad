@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1758532320 source:c:\users\josea\onedrive\documentos\universidad\mp\complejo_clase\main.cpp
+	<iostream>
+	"complejo.h"
+
+1758532303 source:c:\users\josea\onedrive\documentos\universidad\mp\complejo_clase\src\complejo.cpp
+	"complejo.h"
+	<iostream>
+
+1758531731 c:\users\josea\onedrive\documentos\universidad\mp\complejo_clase\include\complejo.h
+
