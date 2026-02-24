@@ -1,0 +1,7 @@
+MÁQUINA POLIFEMO 172.17.21.248
+ssh joseangel.leon@172.17.21.248
+sftp (para pasar archivo de mi máquina al servidor)
+
+Comando para la ayuda: man (si usamos /palabra buscamos en toda la ayuda). si no funciona man se puede usar help.
+			
+ 
